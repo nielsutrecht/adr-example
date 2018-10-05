@@ -1,10 +1,12 @@
-# 2. Use JUnit 4.12 for testing
+# 3. Use JUnit 5 for testing
 
 Date: 2018-10-05
 
 ## Status
 
-Superceded by [3. Use JUnit 5 for testing](0003-use-junit-5-for-testing.md)
+Accepted
+
+Supercedes [2. Use JUnit 4.12 for testing](0002-use-junit-4-12-for-testing.md)
 
 ## Context
 
